@@ -1,6 +1,6 @@
 
 
-![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Ranjit%20Das&text2=💖%20A%20Passionate%20Coder,Developer%20&%20Debugger&width=900&height=400)
+![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Ranjit%20Das&text2=💖%20A%20Passionate%20Coder,Developer%20Debugger&width=900&height=400)
 
 
 <img height="auto" src="https://komarev.com/ghpvc/?username=technicalranjitofficial&label=Profile%20views&color=0e75b6&style=flat" alt="technicalranjit" />
