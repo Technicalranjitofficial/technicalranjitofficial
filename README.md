@@ -17,9 +17,9 @@
 
 <p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=technicalranjitofficial&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
 
-- 💪🏼 Working on [Github Profile Readme Generator](https://github.com/Technicalranjitofficial/github-profile-readme-generator)
+- 💪🏼 Working on KIIT-CONNECT
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **NestJs**
 
 - 💬 Ask me about **Reactjs and Nextjs**
 
