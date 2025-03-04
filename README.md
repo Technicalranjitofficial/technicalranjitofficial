@@ -19,7 +19,7 @@
 
 - 💪🏼 Working on KIIT-CONNECT
 
-- 🌱 I’m currently learning **NestJs**
+- 🌱 I’m currently learning **Springboot**
 
 - 💬 Ask me about **Reactjs and Nextjs**
 
