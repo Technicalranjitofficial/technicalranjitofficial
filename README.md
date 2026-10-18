@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://kiitconnect.com"><b>KIIT CONNECT ↗</b></a> &nbsp; · &nbsp;
   <a href="https://linkedin.com/in/technicalranjit"><b>LINKEDIN ↗</b></a> &nbsp; · &nbsp;
-  <a href="mailto:technicalranjit@gmail.com"><b>EMAIL ↗</b></a> &nbsp; · &nbsp;
+  <a href="mailto:support@kiitconnect.com"><b>EMAIL ↗</b></a> &nbsp; · &nbsp;
   <a href="https://github.com/Technicalranjitofficial?tab=repositories"><b>REPOSITORIES ↗</b></a>
 </p>
 
@@ -33,12 +33,12 @@
 <br />
 <br />
 
-<a href="mailto:technicalranjit@gmail.com"><img src="assets/09-connect.png" width="1000" alt="Good things start with a conversation. Contact Ranjit at technicalranjit@gmail.com about products, open source, or ideas." /></a>
+<a href="mailto:support@kiitconnect.com"><img src="assets/09-connect.png" width="1000" alt="Good things start with a conversation. Contact Ranjit at support@kiitconnect.com about products, open source, or ideas." /></a>
 
 <p align="center">
   <a href="https://linkedin.com/in/technicalranjit">LinkedIn</a> &nbsp; / &nbsp;
   <a href="https://x.com/technicalranjit">X</a> &nbsp; / &nbsp;
-  <a href="mailto:technicalranjit@gmail.com">Email</a>
+  <a href="mailto:support@kiitconnect.com">Email</a>
 </p>
 
 <details>
@@ -72,6 +72,6 @@ I'm a full-stack developer and the founder of [KIIT Connect](https://kiitconnect
 
 ### Connect
 
-[LinkedIn](https://linkedin.com/in/technicalranjit) · [X](https://x.com/technicalranjit) · [Email](mailto:technicalranjit@gmail.com)
+[LinkedIn](https://linkedin.com/in/technicalranjit) · [X](https://x.com/technicalranjit) · [Email](mailto:support@kiitconnect.com)
 
 </details>
