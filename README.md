@@ -1,44 +1,69 @@
+<!-- Custom profile artwork is local to this repository. No third-party image widgets. -->
 
+<p align="center">
+  <img src="assets/01-hero.png" width="1000" alt="Ranjit Das. Full-stack developer and founder of KIIT Connect. Turning everyday problems into useful software." />
+</p>
 
-![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Ranjit%20Das%20🤠&text2=💖%20A%20Passionate%20Coder,Developer%20and%20Debugger!&width=900&height=400)
+<p align="center">
+  <a href="https://kiitconnect.com"><b>KIIT CONNECT ↗</b></a> &nbsp; · &nbsp;
+  <a href="https://linkedin.com/in/technicalranjit"><b>LINKEDIN ↗</b></a> &nbsp; · &nbsp;
+  <a href="mailto:technicalranjit@gmail.com"><b>EMAIL ↗</b></a> &nbsp; · &nbsp;
+  <a href="https://github.com/Technicalranjitofficial?tab=repositories"><b>REPOSITORIES ↗</b></a>
+</p>
 
+<img src="assets/02-about.png" width="1000" alt="About Ranjit: building student platforms, developer tools, thoughtful interfaces, and practical systems. Currently building KIIT Connect." />
 
-<img height="auto" src="https://komarev.com/ghpvc/?username=technicalranjitofficial&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
+<img src="assets/03-projects-heading.png" width="1000" alt="Selected work: useful things, built with intent." />
 
+<a href="https://kiitconnect.com"><img src="assets/04-kiit-connect.png" width="1000" alt="KIIT Connect — academic resources, placement information, and campus tools. Built with Next.js, TypeScript, MongoDB, and Razorpay. Visit KIIT Connect." /></a>
 
+<a href="https://nepalinotes.com"><img src="assets/05-nepali-notes.png" width="1000" alt="Nepali Notes — free study materials for Class 8–12 and bachelor-level students in Nepal. Next.js, TypeScript, and Tailwind CSS. Visit Nepali Notes." /></a>
 
-<p align="left"> <img width="900" height="110" src="https://readme-jokes.vercel.app/api" alt ="tr"/> </p>
+<a href="https://github.com/Technicalranjitofficial/github-profile-readme-generator"><img src="assets/06-readme-generator.png" width="1000" alt="GitHub Profile README Generator — a JavaScript tool for developers to create their own GitHub introduction. Explore the source." /></a>
 
+<img src="assets/07-stack.png" width="1000" alt="Toolkit: React, Next.js, TypeScript, JavaScript, Tailwind CSS, Node.js, NestJS, Express, REST APIs, MongoDB, MySQL, Prisma, Redis, NextAuth, Razorpay, Git, and GitHub." />
 
+<a href="https://github.com/Technicalranjitofficial?tab=overview"><img src="assets/08-activity.png" width="1000" alt="GitHub contribution snapshot, October 19, 2025 to October 18, 2026: 943 contributions, 74 active days, and an 8-day longest streak. View current activity on GitHub." /></a>
 
-<p align="left"> <a href="https://twitter.com/technicalranjit" target="blank"><img src="https://img.shields.io/twitter/follow/technicalranjit?logo=twitter&style=for-the-badge" alt="profile-radme-generator" /></a> </p>
+<sub>Contribution snapshot: October 18, 2026. <a href="https://github.com/Technicalranjitofficial?tab=overview">View current activity ↗</a></sub>
 
+<br />
+<br />
 
+<a href="mailto:technicalranjit@gmail.com"><img src="assets/09-connect.png" width="1000" alt="Good things start with a conversation. Contact Ranjit at technicalranjit@gmail.com about products, open source, or ideas." /></a>
 
-<p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=technicalranjitofficial&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/technicalranjit">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="https://x.com/technicalranjit">X</a> &nbsp; / &nbsp;
+  <a href="mailto:technicalranjit@gmail.com">Email</a>
+</p>
 
-- 💪🏼 Working on KIIT-CONNECT
+<details>
+<summary>Read the profile as text</summary>
 
-- 🌱 I’m currently learning **Springboot**
+### Hi, I'm Ranjit Das.
 
-- 💬 Ask me about **Reactjs and Nextjs**
+I'm a full-stack developer and the founder of [KIIT Connect](https://kiitconnect.com). I build student platforms, developer tools, and web experiences — taking ideas from interface to implementation.
 
-- 😂 Func Fact **Bats are the only mammal that can actually fly.**
+### Selected work
 
-- 📫 How to reach me **technicalranjit@gmail.com**
+- **[KIIT Connect](https://kiitconnect.com)** — academic resources, placement information, and campus utilities. Built with Next.js, TypeScript, MongoDB, and Razorpay.
+- **[Nepali Notes](https://nepalinotes.com)** — free study materials for Class 8–12 and bachelor-level students in Nepal. [Source code](https://github.com/Technicalranjitofficial/nepalinotes).
+- **[GitHub Profile README Generator](https://github.com/Technicalranjitofficial/github-profile-readme-generator)** — a JavaScript tool to help developers create their GitHub profile.
 
-<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://github.com/technicalranjitofficial" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://linkedin.com/in/technicalranjit" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://instagram.com/official_ranjitdas" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://twitter.com/technicalranjit" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg alt="profile-radme-generator" height="30" width="40" /></a> </p>
+### Toolkit
 
-<h3 align="left">Languages and Tools:</h3> <p align="left"> <a href=https://getbootstrap.com target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://www.cprogramming.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.w3schools.com/cpp/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.w3schools.com/css/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://dart.dev target="_blank" rel="noreferrer"> <img src=https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg alt="android" width="40" height="40"/> </a> <a href=https://www.djangoproject.com/ target="_blank" rel="noreferrer"> <img src=https://cdn.worldvectorlogo.com/logos/django.svg alt="android" width="40" height="40"/> </a> <a href=https://expressjs.com target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://flutter.dev target="_blank" rel="noreferrer"> <img src=https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg alt="android" width="40" height="40"/> </a> <a href=https://git-scm.com/ target="_blank" rel="noreferrer"> <img src=https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg alt="android" width="40" height="40"/> </a> <a href=https://www.w3.org/html/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://www.java.com target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg alt="android" width="40" height="40"/> </a> <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.linux.org/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.mongodb.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://www.mysql.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://nextjs.org/ target="_blank" rel="noreferrer"> <img src=https://cdn.worldvectorlogo.com/logos/nextjs-2.svg alt="android" width="40" height="40"/> </a> <a href=https://nodejs.org target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://www.photoshop.com/en target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg alt="android" width="40" height="40"/> </a> <a href=https://www.python.org target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt="android" width="40" height="40"/> </a> <a href=https://reactjs.org/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://www.typescriptlang.org/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg alt="android" width="40" height="40"/> </a> </p>
+| Area | Tools |
+| --- | --- |
+| Interface | React, Next.js, TypeScript, JavaScript |
+| Design | Tailwind CSS, responsive interfaces |
+| Server | Node.js, NestJS, Express, REST APIs |
+| Data | MongoDB, MySQL, Prisma, Redis |
+| Platform | NextAuth, Razorpay |
+| Workflow | Git, GitHub |
 
+### Connect
 
+[LinkedIn](https://linkedin.com/in/technicalranjit) · [X](https://x.com/technicalranjit) · [Email](mailto:technicalranjit@gmail.com)
 
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=technicalranjitofficial&show_icons=true&theme=merko&locale=en&hide_border=false" alt="profile-radme-generator" />
-
-
-
-<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=technicalranjitofficial&theme=merko&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
-
-
-
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=technicalranjitofficial&theme=merko&hide_border=false" alt="profile-radme-generator" />
+</details>
