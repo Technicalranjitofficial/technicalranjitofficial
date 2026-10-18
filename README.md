@@ -13,7 +13,7 @@
 
 <img src="assets/02-about.png" width="1000" alt="About Ranjit: building student platforms, developer tools, thoughtful interfaces, and practical systems. Currently building KIIT Connect." />
 
-<a href="https://github.com/Technicalranjitofficial?tab=repositories"><img src="assets/generated/github-stats.svg?v=51191d8b1723" width="1000" alt="Automatically refreshed GitHub stats: public repositories, followers, stars, and contributions. See the text summary below for current values." /></a>
+<a href="https://github.com/Technicalranjitofficial?tab=repositories"><img src="assets/generated/github-stats.svg?v=cfb8692c92fb" width="1000" alt="Automatically refreshed GitHub stats: public repositories, followers, stars, and contributions. See the text summary below for current values." /></a>
 
 <img src="assets/03-projects-heading.png" width="1000" alt="Selected work: useful things, built with intent." />
 
@@ -24,9 +24,9 @@
 
 <img src="assets/07-stack.png" width="1000" alt="Toolkit: React, Next.js, TypeScript, JavaScript, Tailwind CSS, Node.js, NestJS, Express, REST APIs, MongoDB, MySQL, Prisma, Redis, NextAuth, Razorpay, Git, and GitHub." />
 
-<img src="assets/generated/languages.svg?v=702766a333c9" width="1000" alt="Primary languages across public repositories, excluding forks. Counts of repositories, not coding time or code-byte percentages." />
+<img src="assets/generated/languages.svg?v=0debe95a51a2" width="1000" alt="Primary languages across public repositories, excluding forks. Counts of repositories, not coding time or code-byte percentages." />
 
-<a href="https://github.com/Technicalranjitofficial?tab=overview"><img src="assets/generated/activity.svg?v=89f08720e398" width="1000" alt="Automatically refreshed contribution calendar for the rolling year, active days, and longest streak. See current values in the text summary below." /></a>
+<a href="https://github.com/Technicalranjitofficial?tab=overview"><img src="assets/generated/activity.svg?v=37c13f1a866b" width="1000" alt="Automatically refreshed contribution calendar for the rolling year, active days, and longest streak. See current values in the text summary below." /></a>
 
 <sub>Real GitHub data · refreshes every 6 hours · timestamps on cards. <a href="https://github.com/Technicalranjitofficial/technicalranjitofficial/actions/workflows/update-profile.yml">Refresh status ↗</a></sub>
 
@@ -56,7 +56,7 @@ I'm a full-stack developer and the founder of [KIIT Connect](https://kiitconnect
 ### GitHub data
 
 <!-- BEGIN DATA SUMMARY -->
-62 public repositories · 76 followers · 92 stars on owned public repositories · 944 contributions in the rolling year · 75 active days · 8-day longest streak. Last fetched: 18 OCT 2026, 16:53 IST.
+62 public repositories · 76 followers · 92 stars on owned public repositories · 945 contributions in the rolling year · 76 active days · 8-day longest streak. Last fetched: 18 OCT 2026, 16:55 IST.
 <!-- END DATA SUMMARY -->
 
 ### Toolkit
