@@ -13,7 +13,7 @@
 
 <img src="assets/02-about.png" width="1000" alt="About Ranjit: building student platforms, developer tools, thoughtful interfaces, and practical systems. Currently building KIIT Connect." />
 
-<a href="https://github.com/Technicalranjitofficial?tab=repositories"><img src="assets/generated/github-stats.svg?v=e489a38866a0" width="1000" alt="Automatically refreshed GitHub stats: public repositories, followers, stars, and contributions. See the text summary below for current values." /></a>
+<a href="https://github.com/Technicalranjitofficial?tab=repositories"><img src="assets/generated/github-stats.svg?v=2f2f06440f09" width="1000" alt="Automatically refreshed GitHub stats: public repositories, followers, stars, and contributions. See the text summary below for current values." /></a>
 
 <img src="assets/03-projects-heading.png" width="1000" alt="Selected work: useful things, built with intent." />
 
@@ -26,7 +26,7 @@
 
 <img src="assets/generated/languages.svg?v=0debe95a51a2" width="1000" alt="Primary languages across public repositories, excluding forks. Counts of repositories, not coding time or code-byte percentages." />
 
-<a href="https://github.com/Technicalranjitofficial?tab=overview"><img src="assets/generated/activity.svg?v=ef2584012981" width="1000" alt="Automatically refreshed contribution calendar for the rolling year, active days, and longest streak. See current values in the text summary below." /></a>
+<a href="https://github.com/Technicalranjitofficial?tab=overview"><img src="assets/generated/activity.svg?v=983f23841733" width="1000" alt="Automatically refreshed contribution calendar for the rolling year, active days, and longest streak. See current values in the text summary below." /></a>
 
 <sub>Real GitHub data · refreshes every 6 hours · timestamps on cards. <a href="https://github.com/Technicalranjitofficial/technicalranjitofficial/actions/workflows/update-profile.yml">Refresh status ↗</a></sub>
 
@@ -56,7 +56,7 @@ I'm a full-stack developer and the founder of [KIIT Connect](https://kiitconnect
 ### GitHub data
 
 <!-- BEGIN DATA SUMMARY -->
-62 public repositories · 75 followers · 92 stars on owned public repositories · 946 contributions in the rolling year · 76 active days · 8-day longest streak. Last fetched: 24 OCT 2026, 21:35 IST.
+62 public repositories · 75 followers · 92 stars on owned public repositories · 946 contributions in the rolling year · 76 active days · 8-day longest streak. Last fetched: 25 OCT 2026, 02:29 IST.
 <!-- END DATA SUMMARY -->
 
 ### Toolkit
